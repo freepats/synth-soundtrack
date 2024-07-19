@@ -1,0 +1,85 @@
+//+ Name: Synth Soundtrack
+//+ Date: 2020-05-21
+//+ URL: http://freepats.zenvoid.org/Synthesizer/synth-effects.html#Soundtrack
+
+<global>
+ //+ Instrument: Synth Soundtrack
+ ampeg_release=2
+ loop_mode=loop_continuous
+
+<group>
+<region>
+ lokey=33 hikey=38
+ pitch_keycenter=36
+ loop_start=205422 loop_end=430640
+ sample=samples/C2.flac
+<region>
+ lokey=39 hikey=42
+ pitch_keycenter=40
+ loop_start=179591 loop_end=395375
+ sample=samples/E2.flac
+<region>
+ lokey=43 hikey=46
+ pitch_keycenter=44
+ loop_start=160253 loop_end=356361
+ sample=samples/G#2.flac
+<region>
+ lokey=47 hikey=50
+ pitch_keycenter=48
+ loop_start=159718 loop_end=353466
+ sample=samples/C3.flac
+<region>
+ lokey=51 hikey=54
+ pitch_keycenter=52
+ loop_start=161509 loop_end=343073
+ sample=samples/E3.flac
+<region>
+ lokey=55 hikey=58
+ pitch_keycenter=56
+ loop_start=162852 loop_end=352957
+ sample=samples/G#3.flac
+<region>
+ lokey=59 hikey=62
+ pitch_keycenter=60
+ loop_start=149734 loop_end=345516
+ sample=samples/C4.flac
+<region>
+ lokey=63 hikey=66
+ pitch_keycenter=64
+ loop_start=157561 loop_end=341759
+ sample=samples/E4.flac
+<region>
+ lokey=67 hikey=70
+ pitch_keycenter=68
+ loop_start=154826 loop_end=342806
+ sample=samples/G#4.flac
+<region>
+ lokey=71 hikey=74
+ pitch_keycenter=72
+ loop_start=153431 loop_end=344699
+ sample=samples/C5.flac
+<region>
+ lokey=75 hikey=78
+ pitch_keycenter=76
+ loop_start=152815 loop_end=342043
+ sample=samples/E5.flac
+<region>
+ lokey=79 hikey=82
+ pitch_keycenter=80
+ loop_start=154269 loop_end=335724
+ sample=samples/G#5.flac
+<region>
+ lokey=83 hikey=86
+ pitch_keycenter=84
+ loop_start=155330 loop_end=309286
+ sample=samples/C6.flac
+<region>
+ lokey=87 hikey=90
+ pitch_keycenter=88
+ loop_start=142825 loop_end=282729
+ sample=samples/E6.flac
+<region>
+ lokey=91 hikey=96
+ pitch_keycenter=92
+ loop_start=153973 loop_end=320430
+ sample=samples/G#6.flac
